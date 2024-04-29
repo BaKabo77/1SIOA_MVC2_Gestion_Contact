@@ -17,7 +17,6 @@ switch($action){
       }
       break;
     }
-
     default:
         include 'views/connexion.php';
     

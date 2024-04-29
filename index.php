@@ -6,4 +6,5 @@ if(!isset($_REQUEST['action'])){
 }else{
     $action = $_REQUEST['action'];
 }
+
 include 'controller.php';

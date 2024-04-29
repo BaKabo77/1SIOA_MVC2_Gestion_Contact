@@ -6,4 +6,5 @@ function login($login,$mdp){
     $requete = database()->query($sql);
     $resultat = $requete->fetch();
     return $resultat;
+    
 }

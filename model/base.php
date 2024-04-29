@@ -1,6 +1,5 @@
 <?php
 
-
 function database(){
 
     $serveur='mysql:host=localhost:3306;dbname=contact';
