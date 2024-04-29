@@ -19,6 +19,5 @@ switch($action){
     }
 
     default:
-        include 'views/connexion.php';
-    
+        include 'views/connexion.php'; 
 }
